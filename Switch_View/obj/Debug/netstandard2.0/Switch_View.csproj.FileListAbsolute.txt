@@ -1,0 +1,14 @@
+E:\Study\Code\Xamarin\Switch_View\Switch_View\bin\Debug\netstandard2.0\Switch_View.deps.json
+E:\Study\Code\Xamarin\Switch_View\Switch_View\bin\Debug\netstandard2.0\Switch_View.dll
+E:\Study\Code\Xamarin\Switch_View\Switch_View\bin\Debug\netstandard2.0\ref\Switch_View.dll
+E:\Study\Code\Xamarin\Switch_View\Switch_View\bin\Debug\netstandard2.0\Switch_View.pdb
+E:\Study\Code\Xamarin\Switch_View\Switch_View\obj\Debug\netstandard2.0\Switch_View.GeneratedMSBuildEditorConfig.editorconfig
+E:\Study\Code\Xamarin\Switch_View\Switch_View\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\Study\Code\Xamarin\Switch_View\Switch_View\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\Study\Code\Xamarin\Switch_View\Switch_View\obj\Debug\netstandard2.0\Switch_View.AssemblyInfoInputs.cache
+E:\Study\Code\Xamarin\Switch_View\Switch_View\obj\Debug\netstandard2.0\Switch_View.AssemblyInfo.cs
+E:\Study\Code\Xamarin\Switch_View\Switch_View\obj\Debug\netstandard2.0\Switch_View.csproj.CoreCompileInputs.cache
+E:\Study\Code\Xamarin\Switch_View\Switch_View\obj\Debug\netstandard2.0\XamlC.stamp
+E:\Study\Code\Xamarin\Switch_View\Switch_View\obj\Debug\netstandard2.0\Switch_View.dll
+E:\Study\Code\Xamarin\Switch_View\Switch_View\obj\Debug\netstandard2.0\ref\Switch_View.dll
+E:\Study\Code\Xamarin\Switch_View\Switch_View\obj\Debug\netstandard2.0\Switch_View.pdb

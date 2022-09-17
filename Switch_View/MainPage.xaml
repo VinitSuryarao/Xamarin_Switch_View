@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Switch_View.MainPage" BackgroundImageSource="SampleImg3.jpg">
+
+    <ContentPage.Content>
+        <StackLayout Padding="10">
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Change Background" FontSize="Medium" TextColor="Red"/>
+                <Switch x:Name="switchImg" VerticalOptions="Start" Toggled="SwitchImg_Toggled"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>
